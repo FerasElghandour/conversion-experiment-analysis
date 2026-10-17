@@ -69,3 +69,7 @@ Prepare your own inputs as described in [DATA.md](DATA.md). Tests use generated 
 ## Practical relevance and limitations
 
 A simulation count of zero is not a true p-value of zero. Interpreting the difference causally requires valid random assignment, independent observations, and a trustworthy experiment design.
+
+## Reuse
+
+The original contributions listed in [LICENSING.md](LICENSING.md) are available under [MIT](LICENSE). This scoped grant preserves upstream notices and separate dataset, simulator, notebook and checkpoint terms.
