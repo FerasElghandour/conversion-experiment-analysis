@@ -1,0 +1,12 @@
+{
+  "control_rate": 0.1052540515600669,
+  "treatment_rate": 0.15532078043793132,
+  "difference": 0.050066728877864425,
+  "difference_normal_95_interval": [
+    0.04509214289835049,
+    0.05504131485737836
+  ],
+  "null_draws": 500,
+  "right_tail_adjusted_p": 0.001996007984031936,
+  "seed": 42
+}
